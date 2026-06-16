@@ -48,7 +48,7 @@ significant portion of 1-star reviews to 4-5 stars.
 ---
 
 ## Dashboard Preview
-![Olist Performance Dashboard](dashboard/olist_dashboard_screenshot.png)
+![Olist Performance Dashboard](dashboard/Olist_dashboard_screenshot.png)
 
 ---
 
